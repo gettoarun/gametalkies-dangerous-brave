@@ -7,23 +7,23 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "myTiles.gVUVr1NV=[!?qSb%te0s": {
+        "id": "myTiles.gVUVr1NV=[!?qSb%te0s",
+        "data": "hwQgACAAAABERETu7rRE7u5ERERERLREtES07r5EtO7ORES0RLREtO7u7u7utO7u7u5ERLRE7u6+7u7uzkS+7r7uREtERO7O7s7u7u7u7u5E7u5Ezu5ERO7uzu7O7s7uROzuRO7uREREtERE7u7uREvu7u7uu0RLtERERO7u7ktE7u7u60RLRO7uRETu7kRES0RL7u7uRETO7rRE7u5ES0RERO7r7ktE7s7uRLTO7u7uRERE7u60RL7uvkRE7u7u7kRES+7uRETu7u7uzrTu7u7utO7uRO7u7u7O7u5Evu7u7kTu7rTuzkS07s7u7kRE7u7u7rREzkS0RO7u7utES+7O7u5ERO5LRLTu7u7u7kRES+7utO7uREROzu6+zu5ERO7u7kS+vkREtETuRO7u60tL7kS+7kREtOS07rTu7O5ERO5LRL5OvkRETu5ES07O7uzu7uzuS0S0RLTuRETu7O7u7u7u6+RERL7k7s7uRO7u7kvu7ES0RLREtO7u7rTuvu60zu5LS0REtO7u7u7uRERERO6+7u7utETu7u5OvrRERETO7r7u7u7u7r5EtO7uRLTu7rRE7u6+7s7uRETu7kREvr5EtL7u7u7uRES07u5ERO7uzu5ERM7u7kRERO7utETuzu7uRETu60RERERE7kRL7uu07kRL7u5EREtERO5ERO7uRM5ERA==",
+        "dataEncoding": "base64",
+        "namespace": "myTiles.",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BrownWallTile"
+    },
     "myTiles.tile5": {
         "id": "myTiles.tile5",
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAAAwAwAwAAAAADADMAAAAAAAMzMwAAAAAAMwMzAAAAAAAAADMAAAAAAAAAMwAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "data": "hwQQABAAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAAEBEREREBAAARAAAAEQAAEBEAAAARAAAQEAAAEREAABAQARARAQAAAQAQARABAAABAAAQEREAAAEAAAEQEBEBERERARARAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "dataEncoding": "base64",
         "namespace": "myTiles.",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile3"
-    },
-    "myTiles.brownWall": {
-        "id": "myImages.gVUVr1NV=[!?qSb%te0s",
-        "data": "hwQgACAAAABERETu7rRE7u5ERERERLREtES07r5EtO7ORES0RLREtO7u7u7utO7u7u5ERLRE7u6+7u7uzkS+7r7uREtERO7O7s7u7u7u7u5E7u5Ezu5ERO7uzu7O7s7uROzuRO7uREREtERE7u7uREvu7u7uu0RLtERERO7u7ktE7u7u60RLRO7uRETu7kRES0RL7u7uRETO7rRE7u5ES0RERO7r7ktE7s7uRLTO7u7uRERE7u60RL7uvkRE7u7u7kRES+7uRETu7u7uzrTu7u7utO7uRO7u7u7O7u5Evu7u7kTu7rTuzkS07s7u7kRE7u7u7rREzkS0RO7u7utES+7O7u5ERO5LRLTu7u7u7kRES+7utO7uREROzu6+zu5ERO7u7kS+vkREtETuRO7u60tL7kS+7kREtOS07rTu7O5ERO5LRL5OvkRETu5ES07O7uzu7uzuS0S0RLTuRETu7O7u7u7u6+RERL7k7s7uRO7u7kvu7ES0RLREtO7u7rTuvu60zu5LS0REtO7u7u7uRERERO6+7u7utETu7u5OvrRERETO7r7u7u7u7r5EtO7uRLTu7rRE7u6+7s7uRETu7kREvr5EtL7u7u7uRES07u5ERO7uzu5ERM7u7kRERO7utETuzu7uRETu60RERERE7kRL7uu07kRL7u5EREtERO5ERO7uRM5ERA==",
-        "dataEncoding": "base64",
-        "namespace": "myImages.",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "BrownWallTile"
     },
     "level1": {
         "id": "level1",

@@ -21,26 +21,8 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "myTiles.tile5":
-            case "myTile3":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . 3 3 3 3 . . . . . . . . . 
-. . . . . . 3 . . . . . . . . . 
-. . . . . 3 3 . . . . . . . . . 
-. . . . . 3 . . . . . . . . . . 
-. . . . 3 3 3 3 3 3 . . . . . . 
-. . . 3 3 3 3 3 3 . . . . . . . 
-. . 3 3 . . . . . . . . . . . . 
-. . 3 . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "BrownWallTile": return img`
+            case "myTiles.gVUVr1NV=[!?qSb%te0s":
+            case "BrownWallTile":return img`
 44eeee44eeeeee444444444444eeeeee
 4bebee4becebee4b444b4b4b4bebecee
 44eeee44eeeeee444e4444e444eeeebe
@@ -74,6 +56,25 @@ b4ee444444b4eeceeb444eb4eeeb4444
 44ee44b44444ee4b444e4444eeee44b4
 4bec44444444ec44444b4444eeee4444
 `;
+            case "myTiles.tile5":
+            case "myTile3":return img`
+. . . . . . . . 1 1 1 1 1 . . . 
+. . . . . 1 1 1 . . . 1 . . . . 
+. 1 . . 1 1 . . . . . 1 . . . . 
+. . 1 1 1 1 1 1 . . . 1 . . . . 
+. . . 1 . . . 1 . . . 1 . . . . 
+. . . 1 . . . . 1 . . 1 . . . . 
+. . . 1 . . . . 1 . 1 1 . . . . 
+. . . 1 . . . 1 . 1 . . . . . . 
+. . . 1 . . 1 1 . 1 . . . . . . 
+. . . 1 . . 1 1 1 1 1 1 . . . . 
+. . . 1 1 1 1 1 1 1 . 1 . . . . 
+. . . 1 1 1 1 . . 1 1 1 . . . . 
+. . . 1 . . . . . . 1 . . . . . 
+. . . . . . . . . . 1 . . . . . 
+. . . . . . . . . . 1 . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })
@@ -100,9 +101,9 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile5 = image.ofBuffer(hex``);
+    export const gVUVr1NV=[!?qSb%te0s = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const BrownWallTile = image.ofBuffer(hex``);
+    export const tile5 = image.ofBuffer(hex``);
 
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
@@ -132,9 +133,10 @@ namespace myTiles {
     helpers._registerFactory("tile", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "transparency16":return myTiles.transparency16;
+            case "BrownWallTile":
+            case "gVUVr1NV=[!?qSb%te0s":return myTiles.gVUVr1NV=[!?qSb%te0s;
             case "myTile3":
-            case "tile5": return myTiles.tile5;
-            case "BrownWallMini": return myTiles.BrownWallTile
+            case "tile5":return myTiles.tile5;
         }
         return null;
     })
