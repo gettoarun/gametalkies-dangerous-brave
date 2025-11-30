@@ -1,0 +1,24 @@
+{
+    "name": "gametalkies-dangerous-brave-commit-e05d45340557788464f0d6b06a90d532c4bf0fea",
+    "dependencies": {
+        "device": "*",
+        "gametalkies-dangerous-brave": "github:gettoarun/gametalkies-dangerous-brave"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
